@@ -1,0 +1,1 @@
+streamlit\nsympy\nnumpy\nmatplotlib\npandas\n
